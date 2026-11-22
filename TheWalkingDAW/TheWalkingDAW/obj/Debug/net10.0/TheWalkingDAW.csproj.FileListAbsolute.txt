@@ -1,0 +1,14 @@
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.AssemblyInfoInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.AssemblyInfo.cs
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.csproj.CoreCompileInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\bin\Debug\net10.0\TheWalkingDAW.exe
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\bin\Debug\net10.0\TheWalkingDAW.deps.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\bin\Debug\net10.0\TheWalkingDAW.runtimeconfig.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\bin\Debug\net10.0\TheWalkingDAW.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\bin\Debug\net10.0\TheWalkingDAW.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\refint\TheWalkingDAW.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\TheWalkingDAW.genruntimeconfig.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\TheWalkingDawProyecto\TheWalkingDAW\TheWalkingDAW\obj\Debug\net10.0\ref\TheWalkingDAW.dll
