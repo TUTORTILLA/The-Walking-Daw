@@ -325,7 +325,8 @@ void MostrarResultadoFinal(int[,] matriz)
     else
         WriteLine(" LÍMITE DE TIEMPO: Se agotaron los ciclos.");
 
-    WriteLine($"\nEstadísticas:");
+    WriteLine();
+    WriteLine($"Estadísticas:");
     WriteLine($"- Ciclos totales: {ciclosTotales}");
     WriteLine($"- ZC eliminados: {zombiesEliminados}");
     WriteLine($"- Sanos supervivientes: {sanosRestantes}");
